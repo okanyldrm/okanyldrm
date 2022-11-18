@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
     <h1>Hello kral baba okan</h1>
-</body>
-</html>
+<img src="https://tr.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png" alt="" width="40" height="40">
